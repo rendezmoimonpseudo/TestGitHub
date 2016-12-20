@@ -17,10 +17,17 @@ public class MainOnVaTester {
 	public static void github(){
 	
 		Scanner sc = new Scanner(System.in);
-		String k =	sc.nextLine();
-		
-		}
-		
+				System.out.println("dit la phrase magique");
+				String k =	sc.nextLine();	
+	}
 	
+
+	public static void testCours()
+	{
+		Scanner sc = new Scanner(System.in);
+		int a = 0;
+		System.out.println("Bravo");
+		
+	}
+
 }
- 

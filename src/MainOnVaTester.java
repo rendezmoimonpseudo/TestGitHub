@@ -8,7 +8,7 @@ public class MainOnVaTester {
 
 
 
-	System.out.println("hey mc Fly je croyais t'avoir dit deplus re foutre les pieds ici. FcS");
+	System.out.println("hey mc Fly je croyais t'avoir dit deplus re foutre les pieds ici.");
 	}
 	
 	public static void testFcs(){

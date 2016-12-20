@@ -7,7 +7,7 @@ public class MainOnVaTester {
 		System.out.println("Wesh !!");
 
 
-		System.out.println("hey mc Fly je croyais t'avoir dit deplus re foutre les pieds ici. FcS MDR");
+	System.out.println("hey mc Fly je croyais t'avoir dit deplus re foutre les pieds ici. FcS MDR xptdr");
 	}
 	
 	public static void testFcs(){
@@ -15,7 +15,6 @@ public class MainOnVaTester {
 		Scanner sc = new Scanner(System.in);
 		int age = sc.nextInt();
 		System.out.print("Rentrez votre âge : ");
-		
 	}
 }
  
